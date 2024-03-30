@@ -1,0 +1,16 @@
+/************* 
+RESET
+**************/
+@import './variables';
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: $custom_white !important;
+}
